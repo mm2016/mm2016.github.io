@@ -23,7 +23,12 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/Vaslo/</loc>
+    <loc>http://manoel-artiste.fr/references/elysee/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/CO1/</loc>
     <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
@@ -33,22 +38,42 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/TRUC/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/references/Disney/</loc>
+    <loc>http://manoel-artiste.fr/references/VIVEMENT_DIMANCHE/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/Vaslo2/</loc>
+    <loc>http://manoel-artiste.fr/agenda/CO2/</loc>
     <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Disney2/</loc>
+    <loc>http://manoel-artiste.fr/references/Miss%20France/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/fnac/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/hp/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/CO3/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/TLMJ/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/bmw/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -58,8 +83,38 @@
   </url>
   
   <url>
+    <loc>http://manoel-artiste.fr/agenda/d%C3%A9amb4%20-%20Copie/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/croixrouge/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/mastercard/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manoel-artiste.fr/prestations/SCULPTURE%20DE%20BALLONS/</loc>
     <lastmod>2015-10-13T13:39:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/d%C3%A9amb5/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/Cabracasey/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/Solvay/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
   <url>
@@ -68,7 +123,12 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Renault2/</loc>
+    <loc>http://manoel-artiste.fr/references/carrefour/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/forgesleseaux/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -78,7 +138,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Vannes/</loc>
+    <loc>http://manoel-artiste.fr/references/provins/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -88,13 +148,28 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Vannes2/</loc>
+    <loc>http://manoel-artiste.fr/references/pfizer/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/prestations/FACE%20%C3%80%20FACE/</loc>
     <lastmod>2015-10-13T13:39:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/diane/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/replay/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/courtetjardin/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
 </urlset>
