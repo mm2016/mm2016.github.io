@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/face%C3%A0face01/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/elysee/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -35,11 +30,6 @@
   <url>
     <loc>http://manoel-artiste.fr/references/louisvitton/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/CO1/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
   <url>
@@ -58,11 +48,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/CO2/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/Miss%20France/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -75,11 +60,6 @@
   <url>
     <loc>http://manoel-artiste.fr/references/versaille/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/CO3/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
   <url>
@@ -103,11 +83,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/d%C3%A9amb4%20-%20Copie/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/croixrouge/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -128,11 +103,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/d%C3%A9amb5/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/Cabracasey/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -145,11 +115,6 @@
   <url>
     <loc>http://manoel-artiste.fr/references/jardinacclimatation/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/sculpture6/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
   <url>
@@ -173,11 +138,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/tralalaire7/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/museeartsforains/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -190,11 +150,6 @@
   <url>
     <loc>http://manoel-artiste.fr/prestations/CLAIR%20OBSCUR/</loc>
     <lastmod>2015-10-13T13:39:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/tralalaire8/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
   <url>
@@ -213,11 +168,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/DEAMB9/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/chillon/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -228,7 +178,22 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/sculpture%209/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0001VASLO/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/001sculpture/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/01face%C3%A0face/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/1CO/</loc>
     <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
@@ -255,6 +220,51 @@
   <url>
     <loc>http://manoel-artiste.fr/references/courtetjardin/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/2CO/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/3CO/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/4d%C3%A9amb%20-%20Copie/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/5d%C3%A9amb/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/6sculpture/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/7tralalaire/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/8tralalaire/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/9DEAMB/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/91sculpture%20/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
   </url>
   
 </urlset>
