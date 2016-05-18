@@ -178,28 +178,42 @@
   </url>
   
   <url>
+    <loc>http://manoel-artiste.fr/agenda/000001d%C3%A9amb%20jongalge/</loc>
+    <lastmod>2016-05-13T13:12:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/00001sculpture/</loc>
+    <lastmod>2016-05-10T13:13:59+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manoel-artiste.fr/agenda/8sculpture/</loc>
+<<<<<<< HEAD
     <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+=======
+    <lastmod>2016-04-07T12:10:49+02:00</lastmod>
+>>>>>>> 2f1c02e17fe4b069548b5e2737f4195bcd3d668c
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/0001VASLO/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:38:59+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/001sculpture/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:38:55+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/01face%C3%A0face/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:38:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/1CO/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:52:49+02:00</lastmod>
   </url>
   
   <url>
@@ -229,47 +243,47 @@
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/2CO/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:43:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/3CO/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:42:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/4d%C3%A9amb%20-%20Copie/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:39:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/7d%C3%A9amb/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:21:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/6sculpture/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:22:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/5tralalaire/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:23:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/4tralalaire/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:38:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/3DEAMB/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:40:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://manoel-artiste.fr/agenda/1sculpture%20/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <lastmod>2016-03-20T18:48:49+02:00</lastmod>
   </url>
   
 </urlset>
