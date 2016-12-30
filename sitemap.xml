@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000001%20Clair%20Obscur%20-%20Copie/</loc>
-    <lastmod>2016-12-30T12:18:59+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manoel-artiste.fr/references/elysee/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
@@ -35,6 +30,11 @@
   <url>
     <loc>http://manoel-artiste.fr/references/louisvitton/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000001%20APPDLN%20-%20Copie/</loc>
+    <lastmod>2016-12-30T13:19:59+02:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +205,11 @@
   <url>
     <loc>http://manoel-artiste.fr/references/courtetjardin/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000001%20APPDLN/</loc>
+    <lastmod>2016-12-30T13:19:59+02:00</lastmod>
   </url>
   
   <url>
@@ -430,11 +435,6 @@
   <url>
     <loc>http://manoel-artiste.fr/agenda/7d%C3%A9amb/</loc>
     <lastmod>2016-03-20T18:21:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/6sculpture/</loc>
-    <lastmod>2016-03-20T18:22:49+02:00</lastmod>
   </url>
   
   <url>
