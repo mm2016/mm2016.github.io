@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://manoel-artiste.fr/</loc>
-    <lastmod>2015-10-13T13:40:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/photos/all/</loc>
-    <lastmod>2015-10-13T13:40:59+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/contact/contact/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/merci/merci/</loc>
-    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://manoel-artiste.fr/references/elysee/</loc>
@@ -38,12 +18,12 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Renault/</loc>
+    <loc>http://manoel-artiste.fr/references/renault/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/VIVEMENT_DIMANCHE/</loc>
+    <loc>http://manoel-artiste.fr/references/vivement_dimanche/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -53,7 +33,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Miss%20France/</loc>
+    <loc>http://manoel-artiste.fr/references/miss-france/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -68,7 +48,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/TLMJ/</loc>
+    <loc>http://manoel-artiste.fr/references/tlmj/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -83,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/prestations/JONGLAGE/</loc>
+    <loc>http://manoel-artiste.fr/prestations/jonglage/</loc>
     <lastmod>2015-10-13T13:39:32+02:00</lastmod>
   </url>
   
@@ -103,22 +83,22 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/prestations/SCULPTURE%20DE%20BALLONS/</loc>
+    <loc>http://manoel-artiste.fr/prestations/sculpture-de-ballons/</loc>
     <lastmod>2015-10-13T13:39:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/prestations/LE%20CIRQUE%20SILENCIEUX/</loc>
+    <loc>http://manoel-artiste.fr/prestations/le-cirque-silencieux/</loc>
     <lastmod>2018-02-19T20:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Cabracasey/</loc>
+    <loc>http://manoel-artiste.fr/references/cabracasey/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Solvay/</loc>
+    <loc>http://manoel-artiste.fr/references/solvay/</loc>
     <lastmod>2015-10-13T13:40:29+02:00</lastmod>
   </url>
   
@@ -128,12 +108,12 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/references/Noubliez_pas%20_les_paroles/</loc>
+    <loc>http://manoel-artiste.fr/references/noubliez_pas-_les_paroles/</loc>
     <lastmod>2017-11-20T19:56:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/prestations/CLAIR%20OBSCUR/</loc>
+    <loc>http://manoel-artiste.fr/prestations/clair-obscur/</loc>
     <lastmod>2017-04-25T13:39:32+02:00</lastmod>
   </url>
   
@@ -163,7 +143,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/prestations/VASLO/</loc>
+    <loc>http://manoel-artiste.fr/prestations/vaslo/</loc>
     <lastmod>2015-10-13T13:39:32+02:00</lastmod>
   </url>
   
@@ -213,22 +193,22 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001Jongle%20duo%20disney/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongle-duo-disney/</loc>
     <lastmod>2018-02-08T16:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001APPDN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</loc>
     <lastmod>2018-02-08T16:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001CO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001co/</loc>
     <lastmod>2018-01-22T16:38:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001APPDN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</loc>
     <lastmod>2018-01-22T16:38:00+02:00</lastmod>
   </url>
   
@@ -238,12 +218,12 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001Feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001feu/</loc>
     <lastmod>2018-01-22T16:31:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000001APPDN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</loc>
     <lastmod>2018-01-22T16:17:00+02:00</lastmod>
   </url>
   
@@ -253,7 +233,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000001APPDN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</loc>
     <lastmod>2018-01-22T16:17:00+02:00</lastmod>
   </url>
   
@@ -268,17 +248,17 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000001CIES/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000001cies/</loc>
     <lastmod>2018-01-22T16:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000001APPDNemerainville/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000001appdnemerainville/</loc>
     <lastmod>2018-01-22T16:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000001APPDNParis/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000001appdnparis/</loc>
     <lastmod>2018-01-22T15:59:00+02:00</lastmod>
   </url>
   
@@ -303,22 +283,22 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000001Spectacle%20de%20feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000001spectacle-de-feu/</loc>
     <lastmod>2017-11-20T20:19:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000001jonglage%20et%20ballons%20Massy/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000001jonglage-et-ballons-massy/</loc>
     <lastmod>2017-11-20T20:14:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000001jonglage%20et%20ballons%20St%20Quentin/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000001jonglage-et-ballons-st-quentin/</loc>
     <lastmod>2017-11-20T20:11:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000001jonglage%20duo/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000001jonglage-duo/</loc>
     <lastmod>2017-09-27T17:59:00+02:00</lastmod>
   </url>
   
@@ -338,232 +318,232 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000001%20sculpture%20de%20ballons%20-%20Copie%20-%20Copie/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons---copie---copie/</loc>
     <lastmod>2017-08-28T20:33:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000001jongle%20deamb%20&#43;%20numero/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000001jongle-deamb-&#43;-numero/</loc>
     <lastmod>2017-08-28T20:32:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000001%20sculpture%20de%20ballons%20-%20Copie/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons---copie/</loc>
     <lastmod>2017-08-28T20:26:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000001%20sculpture%20de%20ballons/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons/</loc>
     <lastmod>2017-08-28T20:24:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000001%20jongleur%20d%C3%A9amb&#43;num%C3%A9ro%20-%20Copie/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000001-jongleur-d%C3%A9amb&#43;num%C3%A9ro---copie/</loc>
     <lastmod>2017-08-28T20:19:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000001%20jongleur%20d%C3%A9amb&#43;num%C3%A9ro/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000001-jongleur-d%C3%A9amb&#43;num%C3%A9ro/</loc>
     <lastmod>2017-08-28T20:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000001VASLO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000001vaslo/</loc>
     <lastmod>2017-08-28T20:12:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000001%20jongle%20et%20atelier%20cirque/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000001-jongle-et-atelier-cirque/</loc>
     <lastmod>2017-08-28T20:04:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000001%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000001-jongle/</loc>
     <lastmod>2017-07-12T09:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000001%20jongle%20et%20ballons/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000001-jongle-et-ballons/</loc>
     <lastmod>2017-07-12T09:53:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000001%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000001-jongle/</loc>
     <lastmod>2017-07-12T09:50:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000001%20jongle%20et%20ballons/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000001-jongle-et-ballons/</loc>
     <lastmod>2017-07-12T09:50:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000001DJ/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000001dj/</loc>
     <lastmod>2017-07-12T09:46:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000001%20ballons/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000001-ballons/</loc>
     <lastmod>2017-07-12T09:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000001jongle%20et%20ballons/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000001jongle-et-ballons/</loc>
     <lastmod>2017-07-12T09:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000001CO%20JP/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000001co-jp/</loc>
     <lastmod>2017-07-12T09:39:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000001%20DJ/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000001-dj/</loc>
     <lastmod>2017-07-12T09:37:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000001%20DJ/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000001-dj/</loc>
     <lastmod>2017-07-12T09:35:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000001%20CO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000001-co/</loc>
     <lastmod>2017-07-12T09:29:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000001%20cirque%20silencieux/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000001-cirque-silencieux/</loc>
     <lastmod>2017-04-07T22:06:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000001%20d%C3%A9ambulation%20jonglage/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000001-d%C3%A9ambulation-jonglage/</loc>
     <lastmod>2017-04-07T22:00:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000001%20perf%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000001-perf-jongle/</loc>
     <lastmod>2017-04-07T22:00:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000001%20jongle%20et%20feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000001-jongle-et-feu/</loc>
     <lastmod>2017-04-07T22:00:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000001%20atelier%20cirque/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000001-atelier-cirque/</loc>
     <lastmod>2017-04-07T21:43:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000001%20SB/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000001-sb/</loc>
     <lastmod>2016-12-30T13:30:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000001%20J/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000001-j/</loc>
     <lastmod>2016-12-30T13:27:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000001%20J%20feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000001-j-feu/</loc>
     <lastmod>2016-12-30T13:24:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000001%20J/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000001-j/</loc>
     <lastmod>2016-12-30T13:24:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T13:19:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T13:19:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000001%20Clair%20Obscur/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000001-clair-obscur/</loc>
     <lastmod>2016-12-30T12:18:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T12:17:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000001%20J%20et%20SB/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000001-j-et-sb/</loc>
     <lastmod>2016-12-30T12:14:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T12:09:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T12:09:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T12:07:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T11:11:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000001%20SB/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000000001-sb/</loc>
     <lastmod>2016-12-30T11:43:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000001%20SB/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000000001-sb/</loc>
     <lastmod>2016-12-30T11:43:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T11:11:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000001%20APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000000001-appdln/</loc>
     <lastmod>2016-12-30T11:11:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000001%20Clair%20Obqcur/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000000001-clair-obqcur/</loc>
     <lastmod>2016-12-30T11:04:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000001%20JONGLEUR%20et%20ballon/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000000001-jongleur-et-ballon/</loc>
     <lastmod>2016-12-01T21:05:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000001%20JONGLE%20et%20ballon/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000000000001-jongle-et-ballon/</loc>
     <lastmod>2016-12-01T21:03:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000001Clair%20Obscur/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000000001clair-obscur/</loc>
     <lastmod>2016-12-01T20:58:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000001APPDLN/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000000001appdln/</loc>
     <lastmod>2016-12-01T20:50:45+02:00</lastmod>
   </url>
   
@@ -573,42 +553,42 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000000001stageEric%20Blouet/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000000001stageeric-blouet/</loc>
     <lastmod>2016-09-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000000001%20fete%20med%20dinan/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000000001-fete-med-dinan/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000000001%20deamb%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000000001-deamb-jongle/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000000001%20feu%20/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000000001-feu-/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000000001%20feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000000001-feu/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000000000000001%20sculpture/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000000000000001-sculpture/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000000001%20feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000000001-feu/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000000001%20feu/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000000001-feu/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
@@ -618,12 +598,12 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000000001%20face%20a%20face/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000000001-face-a-face/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000000001%20deamb%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000000001-deamb-jongle/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
@@ -633,32 +613,32 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000000001deamb%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000000001deamb-jongle/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000000001fete%20med%20guerande/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000000001fete-med-guerande/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0000001sculpture%20et%20jongle/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0000001sculpture-et-jongle/</loc>
     <lastmod>2016-07-21T09:50:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000000001deamb%20jongle%20et%20sculpture/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000000001deamb-jongle-et-sculpture/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/00000001fete%20med%20pontoise/</loc>
+    <loc>http://manoel-artiste.fr/agenda/00000001fete-med-pontoise/</loc>
     <lastmod>2016-07-21T09:45:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/000001d%C3%A9amb%20jongalge/</loc>
+    <loc>http://manoel-artiste.fr/agenda/000001d%C3%A9amb-jongalge/</loc>
     <lastmod>2016-05-13T13:12:59+02:00</lastmod>
   </url>
   
@@ -673,7 +653,7 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/0001VASLO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/0001vaslo/</loc>
     <lastmod>2016-03-20T18:38:59+02:00</lastmod>
   </url>
   
@@ -688,22 +668,22 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/1CO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/1co/</loc>
     <lastmod>2016-03-20T18:52:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/2CO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/2co/</loc>
     <lastmod>2016-03-20T18:43:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/3CO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/3co/</loc>
     <lastmod>2016-03-20T18:42:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/4d%C3%A9amb%20-%20Copie/</loc>
+    <loc>http://manoel-artiste.fr/agenda/4d%C3%A9amb---copie/</loc>
     <lastmod>2016-03-20T18:39:49+02:00</lastmod>
   </url>
   
@@ -723,13 +703,80 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/3DEAMB/</loc>
+    <loc>http://manoel-artiste.fr/agenda/3deamb/</loc>
     <lastmod>2016-03-20T18:40:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/1sculpture%20/</loc>
+    <loc>http://manoel-artiste.fr/agenda/1sculpture-/</loc>
     <lastmod>2016-03-20T18:48:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/photos/all/</loc>
+    <lastmod>2015-10-13T13:40:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/contact/contact/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/merci/merci/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/</loc>
+    <lastmod>2018-02-08T16:16:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/contact/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/merci/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/photos/</loc>
+    <lastmod>2015-10-13T13:40:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/prestations/</loc>
+    <lastmod>2015-10-13T13:39:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/references/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
